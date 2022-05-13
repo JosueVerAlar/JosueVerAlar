@@ -8,7 +8,8 @@ better control of the operation to reduce costs, reduce travel times and general
 - 💞️ I’m looking to collaborate on technological projects with applications in the territory, such as drones, 
 geographical information systems, etc.
 
-- 📫 How to reach me; send me an email to jva.urbanismo@gmail.com and I will get back to you as soon as possible.
+- 📫 How to reach me; send me an email to jva.urbanismo@gmail.com and I will get back to you as soon as possible or
+- you can also contact me by LinkedIn at https://www.linkedin.com/in/josue-vergara/
 
 <!---
 JosueVerAlar/JosueVerAlar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
