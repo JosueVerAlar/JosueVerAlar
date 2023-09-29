@@ -1,16 +1,34 @@
-- 👋 Hi, I’m Josue Vergara Alarcón
+# Hi! 👋
+Here you have some information about me:
+```js
+const developer = {
+    name: "Josué Vergara A.",
+    lenguages: ["Python", "JavaScript", "HTML", "CSS"],
+    frameworks: ["Angular", "React.Js"]
+}
 
-- 👀 I’m interested in how we can use technology for public management, urban planning, territorial organization
-and innovation of public transportation systems to make them more efficient, environmentally friendly and provide
-better control of the operation to reduce costs, reduce travel times and generally improve the user experience.
+console.log(developer)
+```
 
-- 🌱 I’m currently learning urban planning and design at the National Autonomous University of Mexico (UNAM).
-- 💞️ I’m looking to collaborate on technological projects with applications in the territory, such as drones, 
-geographical information systems, etc.
+Please, don't hesitate to contact me, I will be happy to collaborate with you to make solutions for your company's needs.
+```js
+function reachMe(contact) {
+    let call;
+    if (contact == true) {
+        return "josuevergara.dev@gmail.com";
+    } else {
+        return call = 5561828247;
+    }
+}
 
-- 📫 How to reach me; send me an email to jva.urbanismo@gmail.com and I will get back to you as soon as possible or
-- you can also contact me by LinkedIn at https://www.linkedin.com/in/josue-vergara/
+reachMe(false);
+```
+I will get back to you as soon as possible or:
+```js
+const linkedIn = "https://www.linkedin.com/in/josue-vergara/"
 
+console.log(linkedIn)
+```
 <!---
 JosueVerAlar/JosueVerAlar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
